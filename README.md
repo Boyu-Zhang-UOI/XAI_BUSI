@@ -4,7 +4,7 @@ This repository contains the source code for the paper Bi-Rads-Net: An Explainab
 
 ### BibTeX
 
-'''
+```
 @inproceedings{zhang2021bi,
   title={Bi-Rads-Net: An Explainable Multitask Learning Approach for Cancer Diagnosis in Breast Ultrasound Images},
   author={Zhang, Boyu and Vakanski, Aleksandar and Xian, Min},
@@ -13,4 +13,4 @@ This repository contains the source code for the paper Bi-Rads-Net: An Explainab
   year={2021},
   organization={IEEE}
 }
-'''
+```
